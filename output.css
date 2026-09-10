@@ -178,6 +178,9 @@
   .relative {
     position: relative;
   }
+  .static {
+    position: static;
+  }
   .inset-x-0 {
     inset-inline: 0px;
   }
