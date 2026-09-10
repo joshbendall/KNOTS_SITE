@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Bian;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("fonts/bianzhidai_noBG-Brush.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Haslea;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("fonts/Haslea-Plain.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Parasitype;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("fonts/Parasitype-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: ParasitypeSemi;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("fonts/Parasitype-SemiBold.otf") format("opentype");
+}
